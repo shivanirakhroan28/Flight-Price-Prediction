@@ -1,1 +1,1 @@
-# Flight-Price-Prediction
+This project involves the analysis of flight prices based on various factors such as airline, duration, and journey month. This analysis provides valuable insights into the factors that influence flight pricing, which could be useful for travelers looking to optimize their travel costs or for airline companies aiming to adjust their pricing strategies.
